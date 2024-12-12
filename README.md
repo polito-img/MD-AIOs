@@ -8,8 +8,8 @@ by Lohic Fotio Tiotsop, Antonio Servetti, Marcus Barkowsky, Peter Pocta, Glenn V
 ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM), vol. 20, Jun 2024, pp. 1-27, 
 DOI: 10.1145/3664198 (ISSN: 1551-6857) ([freely available to anyone as open access](https://doi.org/10.1145/3664198))
 
-The software is provided free of charge, see [LICENSE.txt](./LICENSE.txt) file for further conditions. 
-We kindly ask anyone using the software to cite the previous paper.
+The software is provided free of charge, see [LICENSE.txt](./LICENSE.txt) file for further conditions.   
+*We kindly ask anyone using this software to cite the previous paper*.
 
 **NOTE**: Due to its large size (1.5+ GB), the full set of data files (.mat files) must be downloaded from [https://media.polito.it/MD-AIOs](https://media.polito.it/MD-AIOs)
 
