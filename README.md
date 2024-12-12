@@ -2,10 +2,11 @@
 
 This software includes the AI Observers models (trained Matlab NNs) presented in the paper   
 
-**Multiple Image Distortion DNN Modeling Individual Subject Quality Assessment**   
+[**Multiple Image Distortion DNN Modeling Individual Subject Quality Assessment**](https://doi.org/10.1145/3664198)  
 
 by Lohic Fotio Tiotsop, Antonio Servetti, Marcus Barkowsky, Peter Pocta, Glenn Van Wallendael, Enrico Masala,  
-to ACM Transactions on Multimedia Computing, Communications, and Applications, 2024
+ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM), vol. 20, Jun 2024, pp. 1-27, 
+DOI: 10.1145/3664198 (ISSN: 1551-6857) ([freely available to anyone as open access](https://doi.org/10.1145/3664198))
 
 The software is provided free of charge, see [LICENSE.txt](./LICENSE.txt) file for further conditions. 
 We kindly ask anyone using the software to cite the previous paper.
