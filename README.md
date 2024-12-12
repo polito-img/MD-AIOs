@@ -23,7 +23,7 @@ Please note that to run the provided software, it is recommended  to have instal
 
 The folder contains: 
 
-- 20 .mat files containing the weights and the architecture of the trained Deep Neural Networks (DNNs) i.e., the JPEGResNet50 and the 19 AIOs. 
+- 20 .mat files containing the weights and the architecture of the trained Deep Neural Networks (DNNs) i.e., the JPEGResNet50 and the 19 AIOs (to be downloaded from [https://media.polito.it/MD-AIOs](https://media.polito.it/MD-AIOs)). 
 
 - the MATLAB ```Simulate_AI_subjective_test.m``` that provides the software for simulating a subjective experiment with the AIOs. 
 
